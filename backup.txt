@@ -1,0 +1,10 @@
+
+		// "phpoffice/phpspreadsheet": "^1.9",
+
+<!-- <p style="font-size:11px;">
+                            <?php
+                            $qrcodefile = $detail['qrcode_name'];
+                            $qrcodename = explode('.', $qrcodefile);
+                            echo $qrcodename[0];
+                            ?>
+                        </p> -->
